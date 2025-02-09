@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+langchain
+neo4j-driver
+langchain-neo4j
+langchain_community
